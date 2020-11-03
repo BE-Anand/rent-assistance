@@ -21,5 +21,5 @@ Benefits Explorer list all [Rent Assistance] program trhough out USA.
 [Red Cross]: <https://www.redcross.org>
 [Crisis Assistance]: <https://www.crisisassistance.org/programs>
 [Housing Authority]: <http://cha-nc.org/>
-[Good Fellows Club]: <http://cha-nc.org/>
+[Good Fellows Club]: <https://www.goodfellowsclub.org>
 [Rent Assistance]: <http://benefitsexplorer.com/low-income-housing/rent-assistance>
